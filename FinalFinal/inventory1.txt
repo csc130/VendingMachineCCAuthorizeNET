@@ -1,0 +1,50 @@
+Coke
+1.5
+Calorie 100
+12
+8
+Sprite
+1.5
+Calorie 100
+19
+1
+Cheetos
+1.5
+Calorie 200
+15
+5
+Fresca
+1.5
+Calorie 100
+18
+2
+Fritos
+1.5
+Calorie 150
+16
+4
+Lays
+1.5
+Calorie 200
+9
+11
+Cookies
+1.5
+Calorie 400
+18
+2
+Pretzel
+1.5
+Calorie 500
+18
+2
+Pepsi
+1.5
+Calorie 100
+18
+2
+Root Beer
+1.5
+Calorie 100
+19
+1

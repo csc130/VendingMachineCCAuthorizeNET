@@ -1,0 +1,12 @@
+RECIPT
+Item Selected: Fritos
+Price: 1.5
+Money Inserted: 1.5
+Change0.0
+
+RECIPT
+Item Selected: Lays
+Price: 1.5
+Money Inserted: 1.5
+Change0.0
+
